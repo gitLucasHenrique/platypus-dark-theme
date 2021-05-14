@@ -21,14 +21,14 @@
     "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
     "insomnia": {
         "name": "insomnia-plugin-platypus-dark-theme",
-        "displayName": "Platypus dark theme",
+        "displayName": "Platypus Dark Theme",
         "description": "Custom dark greenish theme for insomnia",
         "images": {
             "icon": "assets/icon.svg",
             "cover": "assets/cover.png"
         },
         "publisher": {
-            "name": "Lucas Henrique Ronqui de Souza",
+            "name": "Lucas H. R. de Souza",
             "icon": "https://avatars.githubusercontent.com/u/35581640?s=400&v=4"
         },
         "keywords": [
