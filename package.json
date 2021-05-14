@@ -1,42 +1,42 @@
 {
-  "name": "insomnia-plugin-platypus-dark-theme",
-  "version": "1.0.0",
-  "private": true,
-  "main": "main.js",
-  "description": "custom dark greenish theme for insomnia",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git:https://github.com/gitLucasHenrique/platypus-dark-theme"
-  },
-  "keywords": [
-    "insomnia",
-    "theme",
-    "dark"
-  ],
-  "author": "lucas henrique ronqui de souza",
-  "license": "MIT",
-  "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
-  "insomnia": {
-      "name": "insomnia-plugin-platypus-dark-theme",
-      "displayName": "Platypus dark theme",
-      "description": "Custom dark greenish theme for insomnia",
-      "images": {
-          "icon": "assets/icon.svg",
-          "cover": "assets/cover.png"
-      },
-      "publisher": {
-          "name": "Lucas Henrique Ronqui de Souza",
-          "icon": "https://avatars.githubusercontent.com/u/35581640?s=400&v=4"
-      },
-      "keywords": [
-          "dark",
-          "theme",
-          "insomnia",
-          "insomnia-plugin",
-          "platypus"
-      ]
-  }
+    "name": "insomnia-plugin-platypus-dark-theme",
+    "version": "1.0.1",
+    "private": true,
+    "main": "main.js",
+    "description": "custom dark greenish theme for insomnia",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git:https://github.com/gitLucasHenrique/platypus-dark-theme"
+    },
+    "keywords": [
+        "insomnia",
+        "theme",
+        "dark"
+    ],
+    "author": "lucas henrique ronqui de souza",
+    "license": "MIT",
+    "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
+    "insomnia": {
+        "name": "insomnia-plugin-platypus-dark-theme",
+        "displayName": "Platypus dark theme",
+        "description": "Custom dark greenish theme for insomnia",
+        "images": {
+            "icon": "assets/icon.svg",
+            "cover": "assets/cover.png"
+        },
+        "publisher": {
+            "name": "Lucas Henrique Ronqui de Souza",
+            "icon": "https://avatars.githubusercontent.com/u/35581640?s=400&v=4"
+        },
+        "keywords": [
+            "dark",
+            "theme",
+            "insomnia",
+            "insomnia-plugin",
+            "platypus"
+        ]
+    }
 }
