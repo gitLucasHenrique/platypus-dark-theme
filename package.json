@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-platypus-dark-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "private": false,
     "main": "main.js",
     "description": "custom dark greenish theme for insomnia",
