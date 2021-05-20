@@ -1,42 +1,44 @@
 {
+  "name": "insomnia-plugin-platypus-dark-theme",
+  "version": "1.0.3",
+  "private": false,
+  "main": "main.js",
+  "description": "custom dark greenish theme for insomnia",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitLucasHenrique/platypus-dark-theme"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "insomnia",
+    "insomnia-plugin",
+    "platypus"
+  ],
+  "author": "lucas henrique ronqui de souza",
+  "license": "MIT",
+  "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
+  "insomnia": {
     "name": "insomnia-plugin-platypus-dark-theme",
-    "version": "1.0.2",
-    "private": false,
-    "main": "main.js",
-    "description": "custom dark greenish theme for insomnia",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    "displayName": "Platypus Dark Theme",
+    "description": "Custom dark greenish theme for insomnia",
+    "images": {
+      "icon": "assets/icon.svg",
+      "cover": "assets/cover.png"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/gitLucasHenrique/platypus-dark-theme"
+    "publisher": {
+      "name": "Lucas H. R. de Souza",
+      "icon": "https://avatars.githubusercontent.com/u/35581640?s=400&v=4"
     },
     "keywords": [
-        "insomnia",
-        "theme",
-        "dark"
-    ],
-    "author": "lucas henrique ronqui de souza",
-    "license": "MIT",
-    "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
-    "insomnia": {
-        "name": "insomnia-plugin-platypus-dark-theme",
-        "displayName": "Platypus Dark Theme",
-        "description": "Custom dark greenish theme for insomnia",
-        "images": {
-            "icon": "assets/icon.svg",
-            "cover": "assets/cover.png"
-        },
-        "publisher": {
-            "name": "Lucas H. R. de Souza",
-            "icon": "https://avatars.githubusercontent.com/u/35581640?s=400&v=4"
-        },
-        "keywords": [
-            "dark",
-            "theme",
-            "insomnia",
-            "insomnia-plugin",
-            "platypus"
-        ]
-    }
+      "dark",
+      "theme",
+      "insomnia",
+      "insomnia-plugin",
+      "platypus"
+    ]
+  }
 }
