@@ -1,9 +1,17 @@
 Custom dark theme for Insomnia
 
+Now with a platypus on the scren!
+
 To install it go to Application > Preferences > Plugins, type the package name "insomnia-plugin-platypus-dark-theme" and hit Install Plugin.
 That's it! =)
 
-After that enable it and go to the "Themes" Tab and it should now be listing "Platypus Dark Theme".
+There are 2 themes for now: 
+- Default Platypus Theme
+- No Platypus ='(
+
+~ Choose wisely ~
+
+Thank you everyone who downloaded this theme, I never thought that it would hit this many downloads~
 
 Preview:
-![image](https://user-images.githubusercontent.com/35581640/118218958-e0638780-b44e-11eb-9ece-cd6fba9a0d2a.png)
+![image](assets/cover.png)

@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-platypus-dark-theme",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "private": false,
   "main": "main.js",
   "description": "custom dark greenish theme for insomnia",
@@ -20,7 +20,6 @@
   ],
   "author": "lucas henrique ronqui de souza",
   "license": "MIT",
-  "icon": "icon made by https://www.flaticon.com/authors/flat-icons",
   "insomnia": {
     "name": "insomnia-plugin-platypus-dark-theme",
     "displayName": "Platypus Dark Theme",
