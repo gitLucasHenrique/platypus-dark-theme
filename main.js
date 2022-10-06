@@ -1,5 +1,10 @@
-const { original } = require('./dark/platypus-dark-default')
 
-module.exports.themes = [
-    original
-]
+const defaultPlatypusDarkTheme = require('./themes/defaultDarkPlatypus')
+const woPlatypus = require('./themes/woPlatypus')
+
+module.exports = {
+    themes: [
+        defaultPlatypusDarkTheme,
+        woPlatypus
+    ]
+}
