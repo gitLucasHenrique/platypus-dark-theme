@@ -1,5 +1,5 @@
 const woPlatypus = {
-    name: 'No Platypus',
+    name: 'no-platypus',
     displayName: `No Platypus ='(`,
     theme: {
         foreground: {
