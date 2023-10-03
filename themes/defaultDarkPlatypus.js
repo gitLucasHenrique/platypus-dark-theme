@@ -1,17 +1,17 @@
 const fs = require('fs')
 const filesPath = require('../assets/assetsPath')
 
-const imageBase64 = fs.readFileSync(filesPath.platypusBackground,'base64')
+const imageBase64 = fs.readFileSync(filesPath.platypusBackground, 'base64')
 
 const defaultPlatypusDarkTheme = {
-    name: 'Default',
+    name: 'default',
     displayName: 'Default Platypus Theme',
     theme: {
         rawCss: `
-        .request-pane.theme--pane.pane .pane__body.theme--pane__body.react-tabs {
+        .request-pane.theme--pane.pane > div:nth-child(2) > div:nth-child(2) {
             background-image: url(data:image/png;base64,${imageBase64});
-            background-blend-mode: luminosity;
-            background-size: 50%;
+            mix-blend-mode: luminosity;
+            background-size: 40%;
             background-position-x: right;
             background-position-y: 95.5%;
             background-repeat: no-repeat;
