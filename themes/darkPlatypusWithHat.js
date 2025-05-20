@@ -1,11 +1,11 @@
 const fs = require('fs')
 const filesPath = require('../assets/assetsPath')
 
-const imageBase64 = fs.readFileSync(filesPath.platypusBackground, 'base64')
+const imageBase64 = fs.readFileSync(filesPath.platypusBackgroundWithHat, 'base64')
 
 const defaultPlatypusDarkTheme = {
-    name: 'default',
-    displayName: 'Default Platypus Theme',
+    name: 'darkPlatypusWithHat',
+    displayName: 'Platypus Theme With Hat',
     theme: {
         rawCss: `
         [role="tabpanel"] > .editor > .editor__container.input > .CodeMirror {
