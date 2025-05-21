@@ -4,7 +4,7 @@ const filesPath = require('../assets/assetsPath')
 const imageBase64 = fs.readFileSync(filesPath.platypusBackground, 'base64')
 
 const defaultPlatypusDarkTheme = {
-    name: 'default',
+    name: 'darkPlatypus',
     displayName: 'Default Platypus Theme',
     theme: {
         rawCss: `
